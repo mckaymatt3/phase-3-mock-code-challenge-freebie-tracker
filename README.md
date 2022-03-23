@@ -80,7 +80,8 @@ attributes specified in the deliverables below.
 
 ## Deliverables
 
-Write the following methods in the classes in the files provided. Feel free to
+Write the following methods in the classes in t
+he files provided. Feel free to
 build out any helper methods if needed.
 
 Deliverables use the notation `#` for instance methods, and `.` for class
